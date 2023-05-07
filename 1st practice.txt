@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favourite Foods</title>
+</head>
+<body>
+    <h1>My Favourite Foods are:</h1>
+    <ul>
+        <li><h2>Hilsha Fish</h2></li>
+        <p>Hisha fish with mustard is a very delicious and traditional food in Bengali culture. Hilsha is konwn as the National Fish in Banladesh and it's one of the GI (Global Indicator) product of Banladesh.</p>
+        <li><h2>Mixed Vegetable</h2></li>
+        <p>Mixed vegetables refer to ready to use combination of cut vegetables. The vegetables may be chopped, sliced, cubed or in juliennes. The typical vegetables included in mixed vegetable are cauliflower, carrots, cabbage, French beans and peas.
+        </p>
+        <li><h2>Beef</h2></li>
+        <p>Beef bhuna is a delicious Bangladeshi curry which is very popular in Bengali homes. Beef bhuna, easy and spicy and you can make it in a pressure cooker to save time. Delicious with rice or roti’s and a perfect dish to enjoy with friends and family. In Bangladesh we call it gorur mangsho bhuna.</p>
+    </ul>
+    <h1>My Favourite Hilsha fish with mustard</h1>
+    <img src="https://media.istockphoto.com/id/1271259624/photo/famous-bengali-dish-hilsa-ilish-fish-with-poppy-and-mustard-seed-recipe.jpg?s=612x612&w=0&k=20&c=_VKYPR6HZwL1BATkwCwOtAdd5GxMx6Lz-I6rmazCYN4=" 
+    alt="Hilsha fish curry with mustard paste"
+/>
+<h3>If you want to try the recipe, please have a look:</h3>
+<a href="https://recipes.timesofindia.com/recipes/hilsa-curry/rs55221449.cms" target="_blank">Hilsh fish curry</a>
+</body>
+</html>
